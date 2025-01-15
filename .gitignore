@@ -4,4 +4,4 @@
 *.log
 .idea/
 .vscode/ 
-.history
+.history/
