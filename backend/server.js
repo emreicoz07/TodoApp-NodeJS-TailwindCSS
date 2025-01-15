@@ -11,6 +11,7 @@ const app = express();
 const corsOptions = {
     origin: [
         'https://todoapp-nodejs-tailwindcss.onrender.com',
+        'https://todoapp-frontend-1qp1.onrender.com',
         'http://localhost:3000'
     ],
     credentials: true,
