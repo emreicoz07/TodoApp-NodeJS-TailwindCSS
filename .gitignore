@@ -1,0 +1,7 @@
+# Global ignores
+.DS_Store
+.env
+*.log
+.idea/
+.vscode/ 
+.history
