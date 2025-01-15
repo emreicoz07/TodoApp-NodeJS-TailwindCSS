@@ -9,7 +9,10 @@ const app = express();
 
 // CORS configuration
 const corsOptions = {
-    origin: ['https://todoapp-nodejs-tailwindcss.onrender.com', 'http://localhost:3000'],
+    origin: [
+        'https://todoapp-nodejs-tailwindcss.onrender.com',
+        'http://localhost:3000'
+    ],
     credentials: true,
     optionsSuccessStatus: 200
 };

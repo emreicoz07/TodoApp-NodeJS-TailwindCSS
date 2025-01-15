@@ -1,3 +1,2 @@
-const API_URL = process.env.NODE_ENV === 'production' 
-    ? 'https://your-backend-app.onrender.com/api'
-    : 'http://localhost:5000/api'; 
+// API URL'i doğrudan tanımla
+const API_URL = 'https://todoapp-nodejs-tailwindcss-api.onrender.com/api'; 
